@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ashwani Singh
+- 👀 I’m interested in Java and Data Structures
+- 🌱 I’m currently learning Java based frameworks - Spring and Model View Controller architectures
